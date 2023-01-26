@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.btn{
+    width: 850px;
+    height: 150px;
+    background-color: #6aa84f;
+    margin: -650px 200px 250px 275px ;
+}
+.ap{
+    width: 900px;
+    height: 600px;
+    background-color: #dddddd;
+    margin: 50px 250px ;
+}
+.nav{
+    width: 200px;
+    height: 350px;
+    background-color: #6fa8dc;
+    margin: -230px 280px;
+
+}
+.main{
+    width: 620px;
+    height: 350px;
+    background-color: #e06666;
+    margin: -350px 500px;
+    }
+
+.subCom{
+    width: 190px;
+    height: 200px;
+    background-color: #ffd966;
+    margin: 30px 100px 20px 515px;
+}
+.sub{
+    width: 190px;
+    height: 200px;
+    background-color: #ffd966;
+    margin: -220px 100px 20px 715px ;
+}
+.s{
+    width: 190px;
+    height: 200px;
+    background-color: #ffd966;
+    margin: -220px 100px 20px 915px ;
+}
+.adv{
+    width: 600px;
+    height: 100px;
+    background-color: #b4a7d6;
+    margin: -10px 250px 250px 510px ;
+}
